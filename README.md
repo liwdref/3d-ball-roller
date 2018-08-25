@@ -1,1 +1,2 @@
-# game-one
+# 3D Ball Roller
+3D Ball Roller is a 3D game developed in unity as a side project for practicing level UI design, level development and other features such as currency management and player skin changing.

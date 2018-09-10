@@ -12,7 +12,7 @@ space/boost button - speed boost
 
 note: the controller on the lower left is usable in mobile.
 
-##In game screenshots
+## In game screenshots
 
-###Main Menu
-![alt text](main-menu.png"main menu")
+### Main Menu
+![alt text](main-menu.png "main menu")

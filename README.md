@@ -17,8 +17,8 @@ note: the controller on the lower left is usable in mobile.
 ### Main Menu
 ![alt text](main-menu.png "main menu")
 Includes the level selection and shop buttons
-*level selection button - lets you proceed to the level selection screen(the level screenshots are not updated so I would like to apologize in advance)
-*shop button - lets you proceed to the shop window for buying/changing owned and unowned "play skins"
+* level selection button - lets you proceed to the level selection screen(the level screenshots are not updated so I would like to apologize in advance)
+* shop button - lets you proceed to the shop window for buying/changing owned and unowned "play skins"
 
 ### Level Selection
 ![alt text](level-selection.png "level selection")
@@ -32,6 +32,6 @@ Will update soon with better background and more obstacles and stuff.
 ### Shop
 ![alt text](shop.png "shop")
 Includes
-*Currency
-*Current player skin(center top)
-*Play skin shop
+* Currency
+* Current player skin(center top)
+* Play skin shop

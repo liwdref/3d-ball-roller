@@ -16,3 +16,13 @@ note: the controller on the lower left is usable in mobile.
 
 ### Main Menu
 ![alt text](main-menu.png "main menu")
+
+### Level Selection
+![alt text](level-selection.png "level selection")
+
+### In game
+![alt text](ingame.png "ingame")
+### Pause
+![alt text](pause.png "pause")
+### Shop
+![alt text](shop.png "shop")
